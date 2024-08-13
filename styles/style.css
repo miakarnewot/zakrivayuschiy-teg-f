@@ -144,6 +144,10 @@
   border-bottom: 2px solid var(--accent-color);
 }
 
+.gigachad {
+  filter: contrast(1.5);
+}
+
 .saddog {
   filter: hue-rotate(25deg) saturate(2.5);
 }
